@@ -9,5 +9,6 @@ public class PlatziTestApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(PlatziTestApplication.class, args);
 	}
+	// es el encargado de inicializar toda la arquitectura y la autoconfiguración de springboot
 
 }
